@@ -14,4 +14,4 @@ COPY src/main/resources /app/resources
 EXPOSE 8080
 
 # Команда, которая будет выполняться при запуске контейнера
-CMD ["java", "-jar", "rendertest-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "studentlist-0.0.1-SNAPSHOT.jar"]
